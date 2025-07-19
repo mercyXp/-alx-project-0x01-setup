@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
+Before that, run: ```npm install``` if 'next' is not recognized as an internal or external command,
+operable program or batch file.
 
 ```bash
 npm run dev
