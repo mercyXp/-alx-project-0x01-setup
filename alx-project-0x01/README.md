@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
-Before that, run: ```npm install``` if 'next' is not recognized as an internal or external command,
+Before anthing, clone this repo then run: ```npm install``` if 'next' is not recognized as an internal or external command,
 operable program or batch file.
+Otherrwise:
+First, run the development server:
 
 ```bash
 npm run dev
